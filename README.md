@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/41611018/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/41611018/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/41611018/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/41611018/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/41611018/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/41611018/-CrackYourPlacement/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

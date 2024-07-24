@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/41611018/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/41611018/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/41611018/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/41611018/-CrackYourPlacement/tree/master/0077-combinations) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/41611018/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/41611018/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

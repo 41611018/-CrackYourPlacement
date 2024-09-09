@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/41611018/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/41611018/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [2032-largest-odd-number-in-string](https://github.com/41611018/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/41611018/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/41611018/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/41611018/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
